@@ -27,8 +27,8 @@
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-swart-zeta-57.vercel.app/api?username=naofunyan&show_icons=true&theme=tokyonight" alt="naofunyan's GitHub stats" />
-  <img src="https://github-readme-stats-swart-zeta-57.vercel.app/api/top-langs/?username=naofunyan&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" />
+  <img src="https://github-readme-stats-swart-zeta-57.vercel.app/api?username=naofunyan&show_icons=true&theme=tokyonight" alt="naofunyan's GitHub stats" width="400" />
+  <img src="https://github-readme-stats-swart-zeta-57.vercel.app/api/top-langs/?username=naofunyan&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" width="305" />
 </div>
 
 # 🐍 Contribution Snake
