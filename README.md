@@ -10,7 +10,7 @@
 
 💽 My latest project is [PocketDrop](https://github.com/naofunyan/PocketDrop) - a Windows utility that delivers a seamless drag-and-drop experience with powerful built-in tools.
 
-🎯 I'm currently learning and improving my skills in **CyberSecurity**.
+🎯 I'm currently learning and improving my skills in **Cybersecurity**.
 
 # 🛠️ Tech Stack
 
